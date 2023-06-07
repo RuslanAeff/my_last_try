@@ -1,4 +1,4 @@
-Artiq bu test olmaqdan chixdi
+Artiq bu test olmaqdan chixdi ve 4u de burda edim
 
 sonuncu task cehdleri 2 commit
 
