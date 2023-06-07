@@ -1,1 +1,3 @@
 Artiq bu test olmaqdan chixdi
+
+sonuncu task cehdleri 2 commit
