@@ -1,3 +1,5 @@
 Artiq bu test olmaqdan chixdi
 
 sonuncu task cehdleri 2 commit
+
+task cehdleri 3 commit
